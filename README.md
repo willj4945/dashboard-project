@@ -12,7 +12,7 @@ To run this project, you’ll need to have the following installed:
 ### Installation
 1. **Clone the Repository**:
     ```bash
-    git clone [https://github.com/your-username/canada-population-dashboard.git](https://github.com/willj4945/dashboard-project)
+    git clone [https://github.com/willj4945/dashboard-project]
     ```
 2. **Navigate to the Project Directory**:
     ```bash
