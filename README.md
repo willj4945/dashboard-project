@@ -12,11 +12,11 @@ To run this project, you’ll need to have the following installed:
 ### Installation
 1. **Clone the Repository**:
     ```bash
-    git clone [https://github.com/willj4945/dashboard-project]
+    git clone https://github.com/willj4945/dashboard-project
     ```
 2. **Navigate to the Project Directory**:
     ```bash
-    cd canada-population-dashboard
+    cd dashboard-project
     ```
 3. **Install the Required Libraries**:
     You can install the necessary libraries using the `requirements.txt` file:
@@ -68,7 +68,7 @@ This project is also a testing ground for integrating Streamlit with external AP
    Implement user authentication to secure data modifications and allow different levels of access for viewing or editing data.
 
 ## Contribution Guidelines
-If you’d like to contribute to this project, feel free to submit a pull request or open an issue on the [[GitHub repository](https://github.com/your-username/canada-population-dashboard)](https://github.com/willj4945/dashboard-project).
+If you’d like to contribute to this project, feel free to submit a pull request or open an issue on the [[GitHub repository](https://github.com/your-username/dashboard-project)](https://github.com/willj4945/dashboard-project).
 
 ### To Contribute:
 1. Fork the repository.
