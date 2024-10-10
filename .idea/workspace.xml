@@ -4,25 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3717839f-13e7-4734-bfb4-b1d32068c39d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data/quarterly_canada_population.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3717839f-13e7-4734-bfb4-b1d32068c39d" name="Changes" comment="Added the ability to update the dataframe of the csv">
+      <change afterPath="$PROJECT_DIR$/admin/admin_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/admin_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/horizontal_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isso/isso_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isso/isso_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/quarterly_canada_population.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/quarterly_canada_population.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "willj4945"
-  }
+  "lastFilter": {}
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
@@ -43,11 +53,14 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Will_\PycharmProjects\dashboard-project\images" />
+      <recent name="C:\Users\Will_\PycharmProjects\dashboard-project" />
       <recent name="C:\Users\Will_\PycharmProjects\dashboard-project\data" />
     </key>
   </component>
@@ -67,6 +80,15 @@
       <option name="presentableId" value="Default" />
       <updated>1728505583759</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added the ability to update the dataframe of the csv">
+      <option name="closed" value="true" />
+      <created>1728512449199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728512449199</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the ability to update the dataframe of the csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the ability to update the dataframe of the csv" />
   </component>
 </project>
